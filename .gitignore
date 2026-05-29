@@ -1,0 +1,24 @@
+# Virtual Environment
+myenv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Local files
+.env
+screenshot_*.png
